@@ -51,3 +51,5 @@ All of them are published under [`@samline`](https://www.npmjs.com/~samline) on 
 ---
 
 Older work: [shido](https://github.com/samline/shido), a utility-first CSS framework (2013–2020).
+
+Find me at [samline.github.io](https://samline.github.io) · [LinkedIn](https://www.linkedin.com/in/jsamline) · [X](https://x.com/samline_)
