@@ -1,6 +1,6 @@
 ### Hey, I'm Samuel
 
-I'm a frontend dev from Pachuca, México. I lead the frontend team at [dinkbit](https://github.com/dinkbit) and I've been building websites for more than 12 years.
+I'm a frontend dev from Pachuca, México. I lead the frontend team at [dinkbit](https://github.com/dinkbit) and I've been building websites since 2013.
 
 I'm picky with the details: how it looks, how it feels to use it, and how clean the code is inside.
 
