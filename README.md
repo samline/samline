@@ -1,10 +1,12 @@
-### Hi, I'm Samuel 👋
+### Hey, I'm Samuel
 
-Software engineer at [dinkbit](https://github.com/dinkbit), based in México. Frontend is the part I enjoy most, so it's where I spend most of my time.
+I'm a frontend dev from Pachuca, México. I lead the frontend team at [dinkbit](https://github.com/dinkbit) and I've been building websites for more than 12 years.
 
-I build small, accessible, framework-agnostic TypeScript packages for the everyday parts of a website: forms, drawers, toasts, scrolling and formatting. They work with vanilla JavaScript, any framework, or plain HTML.
+I'm picky with the details: how it looks, how it feels to use it, and how clean the code is inside.
 
-All of them are published under [`@samline`](https://www.npmjs.com/~samline) on npm, each one with its own docs site. More at [samline.github.io](https://samline.github.io).
+On the side I make small TypeScript packages for the stuff I kept rewriting on every project: forms, drawers, toasts, scroll and formatting. They work with any framework or with plain HTML, and each one has its own docs.
+
+They're all on npm under [`@samline`](https://www.npmjs.com/~samline). More at [samline.github.io](https://samline.github.io).
 
 #### UI components
 
@@ -28,6 +30,7 @@ All of them are published under [`@samline`](https://www.npmjs.com/~samline) on 
 | Package | What it does |
 |---|---|
 | [reveal](https://github.com/samline/reveal) | Reveal elements as they scroll into view, with stagger and a CSS-only scrub mode |
+| [scroll-lock](https://github.com/samline/scroll-lock) | Lock page scroll while a modal, drawer or menu is open, including the iOS Safari fix |
 | [scroll-to](https://github.com/samline/scroll-to) | Smooth scrolling with fixed-header offsets, focus and hash handling |
 | [scroll-spy](https://github.com/samline/scroll-spy) | Highlight the nav link of the section in view, with `aria-current` |
 | [horizontal-scroll](https://github.com/samline/horizontal-scroll) | Pin a section and move it sideways on scroll, with a no-JS fallback |
@@ -42,11 +45,11 @@ All of them are published under [`@samline`](https://www.npmjs.com/~samline) on 
 | [debounce](https://github.com/samline/debounce) | Tiny debounce, throttle and rafThrottle with cancel and flush |
 | [astro](https://github.com/samline/astro) | Astro 7 starter and interactive installer |
 
-#### How I build them
+#### A few things I care about
 
-- **Accessible by default**: keyboard support, ARIA roles and `prefers-reduced-motion`.
-- **No framework lock-in**: ESM, CommonJS and browser builds, usable from a `<script>` tag.
-- **Small and dependency-free** wherever possible.
+- Keyboard support, proper ARIA and respect for `prefers-reduced-motion`.
+- No framework lock-in. You can even use them from a `<script>` tag.
+- Keep them small.
 
 ---
 
