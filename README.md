@@ -4,7 +4,7 @@ I'm a frontend dev from Pachuca, México. I lead the frontend team at [dinkbit](
 
 I'm picky with the details: how it looks, how it feels to use it, and how clean the code is inside.
 
-On the side I make small TypeScript packages for the stuff I kept rewriting on every project: forms, drawers, toasts, scroll and formatting. They work with any framework or with plain HTML, and each one has its own docs.
+On the side I make open source packages for the stuff I kept rewriting on every project, like forms, drawers, toasts, scroll and formatting. They work with any framework or with plain HTML, and each one has its own docs.
 
 They're all on npm under [`@samline`](https://www.npmjs.com/~samline). More at [samline.github.io](https://samline.github.io).
 
@@ -12,16 +12,16 @@ They're all on npm under [`@samline`](https://www.npmjs.com/~samline). More at [
 
 | Package | What it does |
 |---|---|
-| [drawer](https://github.com/samline/drawer) | Framework-agnostic drawer runtime, with an IIFE bundle for direct CDN use |
-| [notify](https://github.com/samline/notify) | Accessible, dependency-free toast notifications |
-| [autocomplete](https://github.com/samline/autocomplete) | Accessible combobox for vanilla JS, TypeScript and plain HTML |
-| [ticker](https://github.com/samline/ticker) | Accessible, dependency-free ticker (marquee) |
+| [drawer](https://github.com/samline/drawer) | Bottom sheets and side panels with dragging and snap points |
+| [notify](https://github.com/samline/notify) | Accessible toast notifications |
+| [autocomplete](https://github.com/samline/autocomplete) | Accessible combobox for any framework or plain HTML |
+| [ticker](https://github.com/samline/ticker) | Accessible ticker (marquee) that pauses on hover |
 
 #### Forms and data
 
 | Package | What it does |
 |---|---|
-| [forms](https://github.com/samline/forms) | TypeScript-first form controller: validation, reactive state, serialization |
+| [forms](https://github.com/samline/forms) | Form handling, validation and reactive state for native forms |
 | [formatter](https://github.com/samline/formatter) | Input formatting (numeral, date, time, card, phone) plus Intl display helpers |
 | [string](https://github.com/samline/string) | Case conversion, slugify, accents, truncate and initials, Unicode-aware |
 
@@ -55,4 +55,4 @@ They're all on npm under [`@samline`](https://www.npmjs.com/~samline). More at [
 
 Older work: [shido](https://github.com/samline/shido), a utility-first CSS framework (2013–2020).
 
-Find me at [samline.github.io](https://samline.github.io) · [LinkedIn](https://www.linkedin.com/in/jsamline) · [X](https://x.com/samline_)
+Find me at [samline.github.io](https://samline.github.io), on [LinkedIn](https://www.linkedin.com/in/jsamline) and on [X](https://x.com/samline_).
